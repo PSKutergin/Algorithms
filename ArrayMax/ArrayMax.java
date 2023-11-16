@@ -1,3 +1,6 @@
+package ArrayMax;
+// Поиск максимального значения в массиве
+
 import java.util.Arrays;
 
 public class ArrayMax {
