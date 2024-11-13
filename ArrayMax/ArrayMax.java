@@ -1,8 +1,5 @@
 package ArrayMax;
 // Поиск максимального значения в массиве
-
-import java.util.Arrays;
-
 public class ArrayMax {
     public static void main(String[] args) {
         int[] ages = {10, 6, 15, 93, 42, 7, 32};

@@ -1,5 +1,3 @@
-package ArrayShift;
-
 public class ArrayShift {
     int[] array = new int[] {15,23,20,5,15,20,15,20};
     int removeDuplicates( int[] array) {
